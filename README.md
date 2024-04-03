@@ -5,14 +5,6 @@ A 2nd year undergrad student pursuing Computer Science and Engineering at [IIT R
 
 Developer at [BlocSocIITR](https://github.com/BlocSoc-iitr).
 
-<!--
-**blueh4mster/blueh4mster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working with `audits`.
-- 🌱 I’m currently learning `zero-knowledge cryptography`.
-
 ### My interests 
 - Software development
 - Blockchain development
