@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Preeti and my alias is blueh4mster.
 
-A 2nd year undergrad student pursuing Computer Science and Engineering at [IIT Roorkee](https://iitr.ac.in).
+A 3rd year undergrad student pursuing Computer Science and Engineering at [IIT Roorkee](https://iitr.ac.in).
 
 Developer at [BlocSocIITR](https://github.com/BlocSoc-iitr).
 
