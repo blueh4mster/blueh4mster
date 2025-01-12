@@ -6,10 +6,9 @@ A 3rd year undergrad student pursuing Computer Science and Engineering at [IIT R
 Developer at [BlocSocIITR](https://github.com/BlocSoc-iitr).
 
 ### My interests 
-- Software development
 - Blockchain development
+- Cryptography (ZKP, FHE, etc.)
 - Smart contract security research
-- Web development
 
 <!--
 [![Blueh4mster's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueh4mster)](https://github.com/anuraghazra/github-readme-stats)
